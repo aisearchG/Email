@@ -4,3 +4,4 @@ google-auth-oauthlib>=0.7.0
 google-api-python-client>=2.98.0
 pandas>=1.5.3
 streamlit-aggrid>=0.4.0
+bleach>=6.1.0
